@@ -90,10 +90,11 @@ const ProductPage = () => {
             transition={{ duration: 1.2, ease: "easeOut" }}
             className="text-2xl sm:text-3xl md:text-4xl font-extrabold text-center text-gray-800 mb-12 md:mb-16 px-4"
           >
-            DOMESTIC COMMERCIAL{" "}
+            
+            FLEXIBLE ENERGY SYSTEM{" "}
             <span className="text-green-600">
               <Typewriter
-                words={["AND INDUSTRIAL SOLUTIONS"]}
+                words={["FOR ALL ENVIRONMENTS"]}
                 loop={0}
                 cursor
                 cursorStyle="|"

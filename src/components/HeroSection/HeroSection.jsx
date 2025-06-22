@@ -30,7 +30,7 @@ const HeroSection = () => {
       {/* Content */}
       <div className="relative z-10 flex flex-col items-center justify-center h-full text-center px-4 sm:px-6 md:px-8 lg:px-12">
         <h1 className="text-white text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold uppercase leading-tight">
-          Alternate Clean Energy Solutions
+          Clean and Cost-Effective Energy Solution
         </h1>
         <p className="text-blue-300 text-base sm:text-lg md:text-xl mt-4 max-w-3xl">
           Fulfilling your heat energy demand reliably and efficiently
